@@ -91,5 +91,5 @@ class DubPen:
 
 myDP = DubPen()
 myDP.eulerInt()
-#myDP.plotResults()
+# myDP.plotResults()
 myDP.animateResult()
