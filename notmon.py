@@ -1,3 +1,6 @@
+# made by dylan h., not me
+
+
 playerhp = 100
 enemyhp = 100
 turn = 0
